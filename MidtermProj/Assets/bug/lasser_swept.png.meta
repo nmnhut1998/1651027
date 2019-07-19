@@ -1,0 +1,3019 @@
+fileFormatVersion: 2
+guid: 2c29da55a2676447e91b289327b13897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2107584866876424353
+    second: lasser_swept_0
+  - first:
+      213: 4816148738488552410
+    second: lasser_swept_1
+  - first:
+      213: -1920164684959296202
+    second: lasser_swept_2
+  - first:
+      213: -5446382275311344927
+    second: lasser_swept_3
+  - first:
+      213: 997112672383753258
+    second: lasser_swept_4
+  - first:
+      213: 7229930572218492404
+    second: lasser_swept_5
+  - first:
+      213: 7146550258408897103
+    second: lasser_swept_6
+  - first:
+      213: 1182054727412416763
+    second: lasser_swept_7
+  - first:
+      213: -2968561690377700186
+    second: lasser_swept_8
+  - first:
+      213: 3295466978110031859
+    second: lasser_swept_9
+  - first:
+      213: -5174388147129467375
+    second: lasser_swept_10
+  - first:
+      213: 1154409779955422797
+    second: lasser_swept_11
+  - first:
+      213: 1714711924346069467
+    second: lasser_swept_12
+  - first:
+      213: -1883945346128223250
+    second: lasser_swept_13
+  - first:
+      213: -4592318382035919651
+    second: lasser_swept_14
+  - first:
+      213: -4696531777360171825
+    second: lasser_swept_15
+  - first:
+      213: -1878267323725883418
+    second: lasser_swept_16
+  - first:
+      213: 6359313240519043482
+    second: lasser_swept_17
+  - first:
+      213: 3533583691147122087
+    second: lasser_swept_18
+  - first:
+      213: -8107625496173287946
+    second: lasser_swept_19
+  - first:
+      213: -1623781760684281870
+    second: lasser_swept_20
+  - first:
+      213: -3785294559211105844
+    second: lasser_swept_21
+  - first:
+      213: -2435599957571349839
+    second: lasser_swept_22
+  - first:
+      213: 1943656817318108858
+    second: lasser_swept_23
+  - first:
+      213: 8045970246495022713
+    second: lasser_swept_24
+  - first:
+      213: 3265120730333607163
+    second: lasser_swept_25
+  - first:
+      213: 1013097426497729378
+    second: lasser_swept_26
+  - first:
+      213: 297328508160232691
+    second: lasser_swept_27
+  - first:
+      213: -8232115005710974848
+    second: lasser_swept_28
+  - first:
+      213: 634928717806803899
+    second: lasser_swept_29
+  - first:
+      213: 594465289217173550
+    second: lasser_swept_30
+  - first:
+      213: -6649957988366998319
+    second: lasser_swept_31
+  - first:
+      213: 1623296281987557127
+    second: lasser_swept_32
+  - first:
+      213: 2457112506082292256
+    second: lasser_swept_33
+  - first:
+      213: 4911441250273871413
+    second: lasser_swept_34
+  - first:
+      213: -8919294973753008686
+    second: lasser_swept_35
+  - first:
+      213: -2335841703279896829
+    second: lasser_swept_36
+  - first:
+      213: -385516359153538897
+    second: lasser_swept_37
+  - first:
+      213: -4951622150278591795
+    second: lasser_swept_38
+  - first:
+      213: -7437232105094603922
+    second: lasser_swept_39
+  - first:
+      213: -6002186496937049734
+    second: lasser_swept_40
+  - first:
+      213: 6671636641743637108
+    second: lasser_swept_41
+  - first:
+      213: -2955346204312171920
+    second: lasser_swept_42
+  - first:
+      213: -754360319957318207
+    second: lasser_swept_43
+  - first:
+      213: -3367121233860553180
+    second: lasser_swept_44
+  - first:
+      213: -519568204721055372
+    second: lasser_swept_45
+  - first:
+      213: -4715979482460728282
+    second: lasser_swept_46
+  - first:
+      213: -2832350714374799651
+    second: lasser_swept_47
+  - first:
+      213: -3419271147208805118
+    second: lasser_swept_48
+  - first:
+      213: -4585438465276145893
+    second: lasser_swept_49
+  - first:
+      213: 8282080683968385330
+    second: lasser_swept_50
+  - first:
+      213: -1736288296248151118
+    second: lasser_swept_51
+  - first:
+      213: -6792849991259155239
+    second: lasser_swept_52
+  - first:
+      213: -3685512916006218810
+    second: lasser_swept_53
+  - first:
+      213: 2177050628872976983
+    second: lasser_swept_54
+  - first:
+      213: -6301035333705138914
+    second: lasser_swept_55
+  - first:
+      213: 2758844187095047673
+    second: lasser_swept_56
+  - first:
+      213: -1895256317697416093
+    second: lasser_swept_57
+  - first:
+      213: -6169787049993162635
+    second: lasser_swept_58
+  - first:
+      213: -6912391506077441596
+    second: lasser_swept_59
+  - first:
+      213: -4076397620263941581
+    second: lasser_swept_60
+  - first:
+      213: 1743369177257177337
+    second: lasser_swept_61
+  - first:
+      213: 8004914059483930363
+    second: lasser_swept_62
+  - first:
+      213: 4599403953279401949
+    second: lasser_swept_63
+  - first:
+      213: 3969485187602138655
+    second: lasser_swept_64
+  - first:
+      213: -2442470245992822928
+    second: lasser_swept_65
+  - first:
+      213: 4985762769173578200
+    second: lasser_swept_66
+  - first:
+      213: -7206494182672363022
+    second: lasser_swept_67
+  - first:
+      213: 6468918232701001985
+    second: lasser_swept_68
+  - first:
+      213: -7483024705749244412
+    second: lasser_swept_69
+  - first:
+      213: -7393095420392298773
+    second: lasser_swept_70
+  - first:
+      213: 5633202628626652335
+    second: lasser_swept_71
+  - first:
+      213: -6924159380287183524
+    second: lasser_swept_72
+  - first:
+      213: 9132837417267273845
+    second: lasser_swept_73
+  - first:
+      213: -7514063361650648548
+    second: lasser_swept_74
+  - first:
+      213: 8891747078285760726
+    second: lasser_swept_75
+  - first:
+      213: -1900393576702117058
+    second: lasser_swept_76
+  - first:
+      213: 7119096745429855083
+    second: lasser_swept_77
+  - first:
+      213: -370126546400819353
+    second: lasser_swept_78
+  - first:
+      213: -7180509694348535838
+    second: lasser_swept_79
+  - first:
+      213: -5881058186070317875
+    second: lasser_swept_80
+  - first:
+      213: 2048641342079494848
+    second: lasser_swept_81
+  - first:
+      213: 3758921596619458889
+    second: lasser_swept_82
+  - first:
+      213: -3172020236993138264
+    second: lasser_swept_83
+  - first:
+      213: -7926964905465428027
+    second: lasser_swept_84
+  - first:
+      213: -3017572189132494457
+    second: lasser_swept_85
+  - first:
+      213: 412816632710703034
+    second: lasser_swept_86
+  - first:
+      213: -7766996958872939819
+    second: lasser_swept_87
+  - first:
+      213: 3347814968142110200
+    second: lasser_swept_88
+  - first:
+      213: -2001067474303682712
+    second: lasser_swept_89
+  - first:
+      213: -8301065932577642235
+    second: lasser_swept_90
+  - first:
+      213: 5170796976015333430
+    second: lasser_swept_91
+  - first:
+      213: -1336989396058591263
+    second: lasser_swept_92
+  - first:
+      213: -2915131448597576651
+    second: lasser_swept_93
+  - first:
+      213: -5178562928253484939
+    second: lasser_swept_94
+  - first:
+      213: 8110827049441222433
+    second: lasser_swept_95
+  - first:
+      213: -7211915206421705703
+    second: lasser_swept_96
+  - first:
+      213: -4166464996305676615
+    second: lasser_swept_97
+  - first:
+      213: -6142701700069667505
+    second: lasser_swept_98
+  - first:
+      213: 6058701940978461975
+    second: lasser_swept_99
+  - first:
+      213: 1554604347492419532
+    second: lasser_swept_100
+  - first:
+      213: 1962138847284061326
+    second: lasser_swept_101
+  - first:
+      213: 5865413876816065031
+    second: lasser_swept_102
+  - first:
+      213: 1697745434444892239
+    second: lasser_swept_103
+  - first:
+      213: -8155123815715868123
+    second: lasser_swept_104
+  - first:
+      213: 4473661294195839801
+    second: lasser_swept_105
+  - first:
+      213: -2896338642285771815
+    second: lasser_swept_106
+  - first:
+      213: -5088046500473917152
+    second: lasser_swept_107
+  - first:
+      213: -6488809740408116629
+    second: lasser_swept_108
+  - first:
+      213: 1502561124273896114
+    second: lasser_swept_109
+  - first:
+      213: 2338359738864129067
+    second: lasser_swept_110
+  - first:
+      213: 9099086984840639572
+    second: lasser_swept_111
+  - first:
+      213: -5131620047984003622
+    second: lasser_swept_112
+  - first:
+      213: 1840243922788260260
+    second: lasser_swept_113
+  - first:
+      213: -6130539846843311273
+    second: lasser_swept_114
+  - first:
+      213: -4067839757137167299
+    second: lasser_swept_115
+  - first:
+      213: 6485599453930281343
+    second: lasser_swept_116
+  - first:
+      213: 5617360153219043660
+    second: lasser_swept_117
+  - first:
+      213: -6087445669261579703
+    second: lasser_swept_118
+  - first:
+      213: 2001271506535055224
+    second: lasser_swept_119
+  - first:
+      213: 1259813079832536416
+    second: lasser_swept_120
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lasser_swept_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c77d860714a245d5b95d8336bb84a25
+      internalID: -2107584866876424353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2238
+        width: 201
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ad146396704096aaff9904bf3e1f8
+      internalID: 4816148738488552410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dbdafceeaca40b5a8837ae283228a3
+      internalID: -1920164684959296202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064b93cd28f540139618de4024698d4
+      internalID: -5446382275311344927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bede9a6563934b88abf7eda218e776a
+      internalID: 997112672383753258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c58ae1365b14f9b9ae5bedabcce65a
+      internalID: 7229930572218492404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_6
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5c767ab21a4c9bb170825cea415b1
+      internalID: 7146550258408897103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_7
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045f49c9d2e54cf99a3774bc203e23c
+      internalID: 1182054727412416763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_8
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2238
+        width: 201
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e79442f840f48a29f97902caaf59de
+      internalID: -2968561690377700186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_9
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfbdbc47b9694e40a4df65f09d40851
+      internalID: 3295466978110031859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_10
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2238
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8daaa5deedd414ca4057053e8e8888
+      internalID: -5174388147129467375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7617667220bf54dcea1cb952694a8e5e
+      internalID: 1154409779955422797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2015
+        width: 201
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd689d58da4d411dbc75d34f4a7d147
+      internalID: 1714711924346069467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5d6eaf120341bbb076f41c3ffcf7e
+      internalID: -1883945346128223250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ec5ac18ec14987bc108c04db8cbd2
+      internalID: -4592318382035919651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e78c357e24d4b0188aceacc6d6ad12
+      internalID: -4696531777360171825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_16
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f717ef5badb44a3b1ee19a80d86a26
+      internalID: -1878267323725883418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_17
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a943bd306024408ac668db3545a6f4
+      internalID: 6359313240519043482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_18
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1c66998de643ea98b0f854bd9da4e
+      internalID: 3533583691147122087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_19
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2015
+        width: 201
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf526eb6c89c43ef8b1f4c75904d287
+      internalID: -8107625496173287946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_20
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631118e7188c8496ba855e02adee3446
+      internalID: -1623781760684281870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_21
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2015
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3499a42adad42b180250d7b0c524c1
+      internalID: -3785294559211105844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1791
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c7326e7736247a9b930fd716067da1
+      internalID: -2435599957571349839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1791
+        width: 201
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9d726e451e46709c9685a61c6791f
+      internalID: 1943656817318108858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1791
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbf9a3213e14c39a7fe7120e1727b4
+      internalID: 8045970246495022713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1791
+        width: 204
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e734b32512440ca9ca6c5c0f55ea5
+      internalID: 3265120730333607163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_26
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1791
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67554a865418947dc88e8d0935606cdc
+      internalID: 1013097426497729378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_27
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1791
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf93b4501c64c4ea3c1cab92880fef
+      internalID: 297328508160232691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_28
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1791
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e078f8934304392b6d97f193ab84f5
+      internalID: -8232115005710974848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_29
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1791
+        width: 204
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797b5b330f774f408f73ae272e2b2b1
+      internalID: 634928717806803899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_30
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1791
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5973e19b474e08b527f69e77a2844
+      internalID: 594465289217173550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_31
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1791
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc432f5637f541c983450166eae0b2f
+      internalID: -6649957988366998319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_32
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1791
+        width: 205
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd4a5943e164d1eb92b4b1ea302f9f
+      internalID: 1623296281987557127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1567
+        width: 205
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ea2321ff39496298eef0a60888f49
+      internalID: 2457112506082292256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1567
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28d7ae3a9d74249be30a3b6e802668
+      internalID: 4911441250273871413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1567
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf8060fbc714ad89a5cb4805b67b6e
+      internalID: -8919294973753008686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1567
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244f60cbb3f34fe39ea065d19c71a38
+      internalID: -2335841703279896829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1567
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cace14f74950484a9ecc0defdb9121e
+      internalID: -385516359153538897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1567
+        width: 202
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85cce869b9b341c4b7cb54ca337a68f
+      internalID: -4951622150278591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_39
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1567
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6771500b6b9489a95182a46b06e548
+      internalID: -7437232105094603922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_40
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1567
+        width: 202
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fac0602148452291b962efab713de
+      internalID: -6002186496937049734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_41
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1567
+        width: 201
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0951a89a194e91a0d687f9bc8d9cb
+      internalID: 6671636641743637108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_42
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1567
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d2b7563ab149219ea798818c100f7
+      internalID: -2955346204312171920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_43
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1567
+        width: 202
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57153ffe3efb94e958c848f3cf96f7b6
+      internalID: -754360319957318207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1342
+        width: 202
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb5fc6a639b44469f6ea762bfcf1af
+      internalID: -3367121233860553180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1342
+        width: 201
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b18e913840436695555aa6c39470f
+      internalID: -519568204721055372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_46
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1342
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b17edfd47a8410eb7ef9a50ac32f74
+      internalID: -4715979482460728282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1342
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5fd4731eaea4708b6801a08c138954
+      internalID: -2832350714374799651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_48
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1342
+        width: 202
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d2efad7df5408f9b5c0f8ac3d1249
+      internalID: -3419271147208805118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_49
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1342
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64998c4c79f2f4d4eabfde886bdb4c35
+      internalID: -4585438465276145893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_50
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1342
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96b3d8dd82741b6b81493c0ac032a0
+      internalID: 8282080683968385330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_51
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1342
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f430ea200c14210b024c4d7f2c2b59
+      internalID: -1736288296248151118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_52
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1342
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e47b25e49ee44519f89ce512d917cb
+      internalID: -6792849991259155239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_53
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1342
+        width: 202
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74101973f372a40e8bfbd8a0577ec182
+      internalID: -3685512916006218810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_54
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1342
+        width: 202
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0f6a71453fc4777b40c9169cd903f0
+      internalID: 2177050628872976983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1118
+        width: 202
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6359ec76bcb4268a3fa1380d7ae398
+      internalID: -6301035333705138914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1118
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76601f9d08b2446f8354ee5248239f2
+      internalID: 2758844187095047673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1118
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fd72b03cec24e4eb2892d906c08fcb
+      internalID: -1895256317697416093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1118
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee125f50014014a78b4499f353aeadbc
+      internalID: -6169787049993162635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_59
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1118
+        width: 202
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952769d8dbae4033a7716260a2ff1a4
+      internalID: -6912391506077441596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_60
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1118
+        width: 202
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7718387342b34d118efadbe1d2e3586
+      internalID: -4076397620263941581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_61
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1118
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984e726da838404ab95ce1083dca76f
+      internalID: 1743369177257177337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_62
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1118
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95a7627a4f548be945f13d858ac6b6
+      internalID: 8004914059483930363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_63
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1118
+        width: 201
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae53e7bd508743ecac92c6a703d37f3
+      internalID: 4599403953279401949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_64
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1118
+        width: 202
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ff791c383649b1b63c2a9784031e8
+      internalID: 3969485187602138655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_65
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1118
+        width: 202
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c2d3395e984a98a11f6d6d94df6ec
+      internalID: -2442470245992822928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 895
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a1e6ff8d7a4cb6895e4abf1e9413a
+      internalID: 4985762769173578200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 895
+        width: 201
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f969c7a9c54f019bd53f40224347e
+      internalID: -7206494182672363022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_68
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 895
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c423c165099f4579aedcb6f3d0ea943
+      internalID: 6468918232701001985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_69
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 895
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca6c31651ed467ba1c0634f34d5cd4
+      internalID: -7483024705749244412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_70
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 895
+        width: 202
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad87dff00544000ac7f8ceb7702aba
+      internalID: -7393095420392298773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_71
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 895
+        width: 202
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8888a6732c4a3cb5c13237a44b546
+      internalID: 5633202628626652335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_72
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 895
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84235c0cab5384d769b79cb85aa2c7eb
+      internalID: -6924159380287183524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_73
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 895
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5026b5e3c0842778c64829533b4f22
+      internalID: 9132837417267273845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_74
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 895
+        width: 201
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abd6287c82304fa3ad723d35b36306e
+      internalID: -7514063361650648548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_75
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 895
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4563d9e1cf4aae8dbc8f42734ad28
+      internalID: 8891747078285760726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_76
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 895
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71413fedc00464074ba37374de64873e
+      internalID: -1900393576702117058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116d74390fa04600b3a2527d92e4f48
+      internalID: 7119096745429855083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_78
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 671
+        width: 201
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9cdc98e18424961a4e37feab9d05a4
+      internalID: -370126546400819353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_79
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506cb3d25dfe47a8b203adea0ec1521
+      internalID: -7180509694348535838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae0e8de475a4037a81eaa3ca9019be
+      internalID: -5881058186070317875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_81
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b3913efa4743f9856b79167d0b418
+      internalID: 2048641342079494848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_82
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32f14f1eda94a9eb8e0dbf121628c4
+      internalID: 3758921596619458889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_83
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3771f1c2ab446c19197ae87c67ad61
+      internalID: -3172020236993138264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_84
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b58380db4748c899f9891ad7b172b
+      internalID: -7926964905465428027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_85
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 671
+        width: 201
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e18b51458749cf8d75de39f4aa73c
+      internalID: -3017572189132494457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_86
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30fe2dceed9e4a7fa965f6db6467df4
+      internalID: 412816632710703034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_87
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 671
+        width: 202
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819909a3591a84abcb6a2275da8679f0
+      internalID: -7766996958872939819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ea006111454a09b52851a03365a94
+      internalID: 3347814968142110200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 447
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150665d1b7bf491f9b3015760f93bb4
+      internalID: -2001067474303682712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_90
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318beed7d1afe41739274cd26a0aca98
+      internalID: -8301065932577642235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_91
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c30a84b1a2544d3ae7b18e0381e82a
+      internalID: 5170796976015333430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_92
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed0f7f8080944dc8caded31b900d0e
+      internalID: -1336989396058591263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_93
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8d426ba0d944fca151e6b6cc40d79
+      internalID: -2915131448597576651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_94
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91600121c77409aa8c6c5efce2f3fa
+      internalID: -5178562928253484939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_95
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846bf050b02640548fba1c83e3ea37c
+      internalID: 8110827049441222433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_96
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 447
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3941113cb114e8d9cfcd499cf29ae5
+      internalID: -7211915206421705703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_97
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef87629148442b780f102909354051
+      internalID: -4166464996305676615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_98
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 447
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198bc329478648da9c9da0b50f75ce3
+      internalID: -6142701700069667505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad04143942f6455ca18d3e1520fd09d
+      internalID: 6058701940978461975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_100
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 223
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53603bbe7d040458c6686f62efb01b
+      internalID: 1554604347492419532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_101
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0c78dd96c0405da571e567d7b1ad3
+      internalID: 1962138847284061326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_102
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbda4a6840a6423fba0147143f8da45
+      internalID: 5865413876816065031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_103
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b056ca4ab14e20854098bff1f68b0
+      internalID: 1697745434444892239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_104
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e5cb340e9243e5a3c7c8f6798aa00
+      internalID: -8155123815715868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_105
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199daa9b5889434aa76891a3dbcf0e7
+      internalID: 4473661294195839801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_106
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93619582ec0dd4d1b9d578615dbaa10a
+      internalID: -2896338642285771815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_107
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 223
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81313ca352d400fa4d30a8e81e4e4a
+      internalID: -5088046500473917152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_108
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e152170c234ca984110fd2c26674d
+      internalID: -6488809740408116629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_109
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 223
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1194d7dcb8f464b21a6f99a4295ad225
+      internalID: 1502561124273896114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a79badc5e64c4e82b87bb97618f88
+      internalID: 2338359738864129067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b032c32d0ce84676ad0f4538fa0e7a7
+      internalID: 9099086984840639572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_112
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de129b43a364a41889c5194afbe487
+      internalID: -5131620047984003622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_113
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0a82d2ff364a7cbcab31ec9aabfac
+      internalID: 1840243922788260260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_114
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb17c6c768fa46abaaa063dc354110b
+      internalID: -6130539846843311273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_115
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2992076ae143cc941ba01deabedb4
+      internalID: -4067839757137167299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_116
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380c416f806846af854e15694f33c04
+      internalID: 6485599453930281343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_117
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6bf74174ba4f989eae868a9e7d80e
+      internalID: 5617360153219043660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_118
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 0
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d4b2cc7b0e4058901098301e12003
+      internalID: -6087445669261579703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_119
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fb4f702458465198b82b21717bc6b
+      internalID: 2001271506535055224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_swept_120
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 0
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82f5b89777d4c0ab2308bd531699a8
+      internalID: 1259813079832536416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 7c143605e47c04e8cb6b4deaa3dfe116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3090351695625965639
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_0
+  - first:
+      213: 5139944979589093475
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_1
+  - first:
+      213: 6929098275935260070
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_2
+  - first:
+      213: 7082249636498704755
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_3
+  - first:
+      213: 1132137024056969349
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_4
+  - first:
+      213: -6152959189743260823
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_5
+  - first:
+      213: -8108835024489962963
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_6
+  - first:
+      213: 5787436562687774651
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_7
+  - first:
+      213: -3270808618416894585
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_8
+  - first:
+      213: 640126863296834133
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_9
+  - first:
+      213: -6118637582670843534
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_10
+  - first:
+      213: -83749112395912164
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_11
+  - first:
+      213: -3601410672976581422
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_12
+  - first:
+      213: 6325442471140360119
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_13
+  - first:
+      213: 3109145078825096248
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_14
+  - first:
+      213: -9078503081941070539
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_15
+  - first:
+      213: -2065586783101169982
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_16
+  - first:
+      213: 8708976086767301595
+    second: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 161
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299469612ee04d01990ce3fa1efe246
+      internalID: -3090351695625965639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 794
+        width: 214
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f5263b437014e8ba93a4db927b4b74
+      internalID: 5139944979589093475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 792
+        width: 213
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28bcd95276743f58dba51525150302
+      internalID: 6929098275935260070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 792
+        width: 212
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657e53c13c7114e40acdf7e654c1de52
+      internalID: 7082249636498704755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 256
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d169aaa51d4eb6a1cd1670c0b85f6
+      internalID: 1132137024056969349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 533
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e73ab56a712479680b2de57f6d57ad
+      internalID: -6152959189743260823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 522
+        width: 233
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33dc2279e3fa4df6904248897806a64
+      internalID: -8108835024489962963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 540
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0fed06d67d4ab3944350e78c86e9e
+      internalID: 5787436562687774651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 539
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d41b928493499796bdc398e9c9939
+      internalID: -3270808618416894585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 310
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a335d7f9cfd4cd2a1a10c74e1a1aa7
+      internalID: 640126863296834133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 280
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3bff71b3bf4c868df7cff542f1e28
+      internalID: -6118637582670843534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 288
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544329728a5604a11a63c0af36c084f7
+      internalID: -83749112395912164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 289
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5490c67735485b997a2d212838349
+      internalID: -3601410672976581422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b548a4c96fe47fea697a7b0149d6b9
+      internalID: 6325442471140360119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 148
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494955683399e4db7b75fd4f00949a06
+      internalID: 3109145078825096248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_15
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 101
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeabf9d06fe04331877de56940a42e3
+      internalID: -9078503081941070539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 43
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500632412e0f44e48bb69db6e0079421
+      internalID: -2065586783101169982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-aura-animation-super-saiya-5aeee65ef0b431.2793000315256059829859_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 161
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914d298aaf7740ba828ae5c066be4d4
+      internalID: 8708976086767301595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

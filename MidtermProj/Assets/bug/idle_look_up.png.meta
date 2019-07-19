@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 1477a3ccba22b44048fe37db2283c381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3719751191033865195
+    second: idle_look_up_0
+  - first:
+      213: 3766016275495652786
+    second: idle_look_up_1
+  - first:
+      213: 1608493721165526492
+    second: idle_look_up_2
+  - first:
+      213: -8994186942376650601
+    second: idle_look_up_3
+  - first:
+      213: 2294674071710746324
+    second: idle_look_up_4
+  - first:
+      213: 3521264089564067557
+    second: idle_look_up_5
+  - first:
+      213: -2916749930090022099
+    second: idle_look_up_6
+  - first:
+      213: 4627581510061073109
+    second: idle_look_up_7
+  - first:
+      213: -8452826223310045287
+    second: idle_look_up_8
+  - first:
+      213: 628654248280342474
+    second: idle_look_up_9
+  - first:
+      213: 1312489847259107295
+    second: idle_look_up_10
+  - first:
+      213: -3792810989531552980
+    second: idle_look_up_11
+  - first:
+      213: -9127839165682232650
+    second: idle_look_up_12
+  - first:
+      213: 1015802666566775074
+    second: idle_look_up_13
+  - first:
+      213: -2359207238217455629
+    second: idle_look_up_14
+  - first:
+      213: 2730925755734074276
+    second: idle_look_up_15
+  - first:
+      213: -8581366319296312395
+    second: idle_look_up_16
+  - first:
+      213: -3011052842357940813
+    second: idle_look_up_17
+  - first:
+      213: -3116486872330715114
+    second: idle_look_up_18
+  - first:
+      213: -6210365501010683659
+    second: idle_look_up_19
+  - first:
+      213: 1992202571175697263
+    second: idle_look_up_20
+  - first:
+      213: 7361604593566849269
+    second: idle_look_up_21
+  - first:
+      213: 8276725956474968764
+    second: idle_look_up_22
+  - first:
+      213: -6940427249489412254
+    second: idle_look_up_23
+  - first:
+      213: -3833483701290589039
+    second: idle_look_up_24
+  - first:
+      213: -3330809209972975615
+    second: idle_look_up_25
+  - first:
+      213: 1385061703675446720
+    second: idle_look_up_26
+  - first:
+      213: -6838663530277035951
+    second: idle_look_up_27
+  - first:
+      213: 3325282952836307874
+    second: idle_look_up_28
+  - first:
+      213: -3765811968576514012
+    second: idle_look_up_29
+  - first:
+      213: 2639462640001452818
+    second: idle_look_up_30
+  - first:
+      213: 450599427496102801
+    second: idle_look_up_31
+  - first:
+      213: -8433744061856687746
+    second: idle_look_up_32
+  - first:
+      213: -775324941029887436
+    second: idle_look_up_33
+  - first:
+      213: -8332685229821817260
+    second: idle_look_up_34
+  - first:
+      213: 372998475279150089
+    second: idle_look_up_35
+  - first:
+      213: 3526490518089538176
+    second: idle_look_up_36
+  - first:
+      213: 5300068861225769758
+    second: idle_look_up_37
+  - first:
+      213: 8479584507907322418
+    second: idle_look_up_38
+  - first:
+      213: -4738312749696592196
+    second: idle_look_up_39
+  - first:
+      213: 7530733631292159099
+    second: idle_look_up_40
+  - first:
+      213: -5907125802406445858
+    second: idle_look_up_41
+  - first:
+      213: -7274452677662717965
+    second: idle_look_up_42
+  - first:
+      213: -6316246416594603461
+    second: idle_look_up_43
+  - first:
+      213: 1647089093172282302
+    second: idle_look_up_44
+  - first:
+      213: 3985366546651174901
+    second: idle_look_up_45
+  - first:
+      213: 5864451765613200242
+    second: idle_look_up_46
+  - first:
+      213: 4917136239654215797
+    second: idle_look_up_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_look_up_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1005
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad439426a334704bfaaa6e5e612a94
+      internalID: 3719751191033865195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1005
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef960765d2d44d3b7a5d0456d2d925
+      internalID: 3766016275495652786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1005
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f0fe37f4714eb9b4f82d4ff764361
+      internalID: 1608493721165526492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1005
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3b0f1c34ad40e384dfef054f088a7
+      internalID: -8994186942376650601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1005
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ac1525004b4c45aaf79627c2c65f0
+      internalID: 2294674071710746324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_5
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1005
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d5cbe9a8ea47079157a24eac4edfe
+      internalID: 3521264089564067557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_6
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1005
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5f269f922f41fc922df4fe8096312
+      internalID: -2916749930090022099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1005
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bc9e13cca147779f8c9713bc9666a
+      internalID: 4627581510061073109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 804
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534302b35b21472ca7057ac1ff90032
+      internalID: -8452826223310045287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 804
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8454eb93b831042589e1f35a809e954c
+      internalID: 628654248280342474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 804
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab10c541cfa45458eb46e69b1c7e3d
+      internalID: 1312489847259107295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 804
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189161d9a457545549c75c3fc86ecfa0
+      internalID: -3792810989531552980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_12
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 804
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583aeef4e49c440d7986cc7b94a5fdda
+      internalID: -9127839165682232650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 804
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5704fda53b4101bd1d46711c2f812
+      internalID: 1015802666566775074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 804
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de8ade8caca4bbb9daace7ebc5c2f2
+      internalID: -2359207238217455629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_15
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 804
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581313fb7334e4671a136af11c954e17
+      internalID: 2730925755734074276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 603
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526be0ffd580e414da3bf069716c49db
+      internalID: -8581366319296312395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 603
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb1f6c4911e4f57b1d3c755df4e326
+      internalID: -3011052842357940813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 603
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b81895f4682849daa784bcf6e9006cc
+      internalID: -3116486872330715114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 603
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32a0f435661460daead37de39a3609
+      internalID: -6210365501010683659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_20
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 603
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3a1ecb0bf74772a39bd049bb67600
+      internalID: 1992202571175697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_21
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 603
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41919bec8fdea40aab26e79a2933007d
+      internalID: 7361604593566849269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_22
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 603
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad19dd0012f24d0d82de3954d75457f
+      internalID: 8276725956474968764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_23
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 603
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd0ba925aeb4e57bbf77bc135296e8
+      internalID: -6940427249489412254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 402
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b9f33528f2412d8b12708c605c83f
+      internalID: -3833483701290589039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 402
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2b7ace941d94b2489398e9a7094bf1
+      internalID: -3330809209972975615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 402
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044eaa26cd6446e3b667b732292ff5b
+      internalID: 1385061703675446720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 402
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9224742b93e4b41a9711c7270603d1
+      internalID: -6838663530277035951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_28
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 402
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26df0adba7347e6a2a6a8514332017
+      internalID: 3325282952836307874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_29
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 402
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f2a56e585d408c8027b21453d3a75
+      internalID: -3765811968576514012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_30
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 402
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddac661ace94f409cc7e8de431eb69
+      internalID: 2639462640001452818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_31
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 402
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58090d41f8c5343db952c5a35a260d4e
+      internalID: 450599427496102801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf5ed6a179541248978097a9b7021e
+      internalID: -8433744061856687746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 201
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f9a7ad368d43c8a5a6532687384de
+      internalID: -775324941029887436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 201
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88534d1b92a4b29a69a70fc34fa093
+      internalID: -8332685229821817260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_35
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 201
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaea071b7efc43c5bf20e2a72e4df8c
+      internalID: 372998475279150089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 201
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3350538878d43f79114051e9782d1b
+      internalID: 3526490518089538176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_37
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 201
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b4e386d8324a348b74f3bc54bda70
+      internalID: 5300068861225769758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_38
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 201
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d54a69fc93254bc1993db2163a1be0c
+      internalID: 8479584507907322418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_39
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 201
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38d8f6d89664ef293e363260e02f57
+      internalID: -4738312749696592196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb0fd7c084f49e59b630fe39fd2112
+      internalID: 7530733631292159099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46179aa696f5540d7aa9159d9370880c
+      internalID: -5907125802406445858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f088348bc4546e194cecdeaa36006d
+      internalID: -7274452677662717965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_43
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd4297307ea42fe87fede5332ce5e5
+      internalID: -6316246416594603461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d757b1bf695e4f118e4ca95b5171cdf
+      internalID: 1647089093172282302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_45
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0fd41e7f7c49bd91e3656ba647da4
+      internalID: 3985366546651174901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_46
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b514638a4984700b205048b95ef1c2
+      internalID: 5864451765613200242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_look_up_47
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c79094cdfd40598d31fd2e8c9ddb7
+      internalID: 4917136239654215797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
